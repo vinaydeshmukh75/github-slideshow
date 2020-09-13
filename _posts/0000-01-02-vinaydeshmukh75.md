@@ -1,1 +1,6 @@
-This is my 1st contribution
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+Your text
+Use the left arrow to go back!
